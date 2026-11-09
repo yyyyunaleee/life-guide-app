@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MCI_project"
+rootProject.name = "LifeGuide"
 include(":app")
